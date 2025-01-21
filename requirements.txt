@@ -1,0 +1,5 @@
+streamlit
+snowflake-connector-python
+openai  # (if Mistral uses OpenAI-like API, replace as needed)
+trulens
+PyPDF2  # To process PDFs
